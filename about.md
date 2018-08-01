@@ -5,7 +5,7 @@ Hi my name is Isidro and I'm a kinda new developer. I begun to make simple HTML5
 ![This is LavaTheif&apos;s or Charlie&apos;s Discord.](.gitbook/assets/charlie.png)
 
   
-I found Lava in a discord advertisement server in December of 2017, he and I were talking about the bot I wanted and how he was code it and all. We've been friends since then I'd reckon. Now It's August and we've now are "partners"\(?\) in crime we could say. He is truly a great guy I'd love to keep this relationship in the coming future.
+I found Lava in a discord advertisement server in December of 2017, he and I were talking about the bot I wanted and how he was gonna code it and all. We've been friends since then I'd reckon. Now It's August and we now are "partners\(?\)" in crime we could say. He is truly a great guy I'd love to keep this relationship in the coming future.
 
 ![The first couple DMs we had back in 2017.](.gitbook/assets/dm.png)
 
