@@ -6,4 +6,5 @@
 * [Blog](blog/README.md)
   * [8/1/18 - The Return](blog/8-1-18-the-return.md)
 * [About](about.md)
+* [Contact](contact.md)
 
